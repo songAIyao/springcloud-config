@@ -1,2 +1,2 @@
-server:
-  port: 8000
+config:
+  info: "main branch,springcloud-config/config-dev.yaml version=1"
